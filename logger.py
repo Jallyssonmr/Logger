@@ -11,7 +11,7 @@ class Logger():
         logging.basicConfig(filename = file_name + ".log", format = self._FORMAT)
     
     def _create_logger(self, current_file_name = None, current_line_number = None):
-        self.logger = logging.getLogger("(filename: " + repr(current_file_name) + ", line number (approximate): " + repr(current_line_number) + ")")
+        self.logger = logging.getLogger("(path: " + repr(current_file_name) + ", line number (approximate): " + repr(current_line_number) + ")")
         self.logger.setLevel(logging.DEBUG)
         
         console_handler = logging.StreamHandler()
