@@ -26,3 +26,8 @@ CRITICAL = 4
  #log.create("filename", "text", type_logger)
  log.create("skynet_log", "deu merda ......", log.ERROR)
  ```
+ Output (terminal and file)
+ 
+ ```python
+ 2018-10-29 13:47:50,359 - (path: '../skynet.py', line number (approximate): 666) - ERROR - deu merda ...... 
+```
