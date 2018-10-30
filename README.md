@@ -28,6 +28,6 @@ CRITICAL = 4
  ```
  Output (terminal and file)
  
- ```python
+ ```txt
  2018-10-29 13:47:50,359 - (path: '../skynet.py', line number (approximate): 666) - ERROR - deu merda ...... 
 ```
