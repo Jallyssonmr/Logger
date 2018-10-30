@@ -10,7 +10,7 @@ pip install Logger
 
 ### **Example**: 
 
-Types of log:
+Types of log
 
 ```python
 DEBUG = 0
