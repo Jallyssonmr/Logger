@@ -1,4 +1,4 @@
-# Logger
+# loggerj
 
 Module to facilitate the creation of logs with logging
 
