@@ -5,7 +5,7 @@ Module to facilitate the creation of logs with logging
 ### **Installation**
 
 ```powershell
-pip install Logger
+pip install loggerj
 ```
 
 ### **Example**: 
@@ -21,7 +21,7 @@ CRITICAL = 4
 ```
 
 ```python
- from Logger import log
+ from loggerj import log
  
  #log.create("filename", "text", type_logger)
  log.create("skynet_log", "deu merda ......", log.ERROR)
