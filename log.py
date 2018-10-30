@@ -1,6 +1,6 @@
 import os
 import inspect
-from Logger import logger
+from loggerj import logger
 
 DEBUG = 0
 INFO = 1
