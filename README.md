@@ -1,4 +1,5 @@
 # loggerj
+[![Build status](https://jallysson.visualstudio.com/loggerj/_apis/build/status/loggerj-Python%20package-CI)](https://jallysson.visualstudio.com/loggerj/_build/latest?definitionId=1)
 
 Module to facilitate the creation of logs with logging
 
