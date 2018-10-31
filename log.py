@@ -2,8 +2,6 @@ import os
 import inspect
 from loggerj import logger
 
-topopjoqjvqkwhvnqwkohiwuivhejqkjhfjkwjgjshgh
-
 DEBUG = 0
 INFO = 1
 WARNING = 2
